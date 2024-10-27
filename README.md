@@ -46,17 +46,16 @@ The project is organized for task separation and scalability:
 8. **[intl](https://pub.dev/packages/intl)**: Provides date and time formatting.
 
 ## 🖼 Screenshots
-![Screenshot 1](assets/images/task_list_1.png)
-![Screenshot 2](assets/images/task_list_2.png)
-![Screenshot 3](assets/images/task_list_3.png)
-![Screenshot 4](assets/images/task_list_4.png)
-![Screenshot 5](assets/images/task_list_5.png)
-![Screenshot 6](assets/images/task_list_6.png)
-![Screenshot 7](assets/images/task_list_7.png)
-![Screenshot 8](assets/images/task_list_8.png)
-![Screenshot 9](assets/images/task_list_9.png)
-![Screenshot 10](assets/images/task_list_10.png)
-![Screenshot 11](assets/images/task_list_11.png)
+![Screenshot 1](assets/images/task_list_1.jpg)
+![Screenshot 2](assets/images/task_list_2.jpg)
+![Screenshot 3](assets/images/task_list_3.jpg)
+![Screenshot 4](assets/images/task_list_4.jpg)
+![Screenshot 5](assets/images/task_list_5.jpg)
+![Screenshot 6](assets/images/task_list_6.jpg)
+![Screenshot 7](assets/images/task_list_7.jpg)
+![Screenshot 8](assets/images/task_list_8.jpg)
+![Screenshot 9](assets/images/task_list_9.jpg)
+![Screenshot 10](assets/images/task_list_10.jpg)
 
 ## 🚀 Installation
 To run the On Time Task app locally, follow these steps:
